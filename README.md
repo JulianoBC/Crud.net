@@ -27,6 +27,7 @@ Para configurar o projeto TaskManager localmente, siga os passos abaixo:
     Navegue até a pasta `task-frontend` (frontend) e execute:
     ```bash
     npm install
+    npm run build
     ```
 
 4.  **Configuração do Banco de Dados:**

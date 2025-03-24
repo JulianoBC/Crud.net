@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G5zzSEKamGe7PZB0y5yUzMjMPOHZLhPsfxXR/6iD3cyKVSrngtPVpWvol8i9A7rbNNNekZ6kVn0HKkW/dBiGmA==",
+  "dgSpecHash": "OhYMggggG13ow+0fwi5p+X439iOPSUupJegJ8OKD0a/wePLKern/9LAT+QwRnsQTrYEVAj1Y0LlzoGmErYz7gQ==",
   "success": true,
-  "projectFilePath": "C:\\DataSystemTestPL\\TaskManager.Tests\\TaskManager.Tests.csproj",
+  "projectFilePath": "C:\\Users\\july204\\Crud.net\\TaskManager.Tests\\TaskManager.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\july204\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\july204\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

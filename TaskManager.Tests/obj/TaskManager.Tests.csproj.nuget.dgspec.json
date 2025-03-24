@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DataSystemTestPL\\TaskManager.Tests\\TaskManager.Tests.csproj": {}
+    "C:\\Users\\july204\\Crud.net\\TaskManager.Tests\\TaskManager.Tests.csproj": {}
   },
   "projects": {
-    "C:\\DataSystemTestPL\\TaskManager.Tests\\TaskManager.Tests.csproj": {
+    "C:\\Users\\july204\\Crud.net\\TaskManager.Tests\\TaskManager.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DataSystemTestPL\\TaskManager.Tests\\TaskManager.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\july204\\Crud.net\\TaskManager.Tests\\TaskManager.Tests.csproj",
         "projectName": "TaskManager.Tests",
-        "projectPath": "C:\\DataSystemTestPL\\TaskManager.Tests\\TaskManager.Tests.csproj",
+        "projectPath": "C:\\Users\\july204\\Crud.net\\TaskManager.Tests\\TaskManager.Tests.csproj",
         "packagesPath": "C:\\Users\\july204\\.nuget\\packages\\",
-        "outputPath": "C:\\DataSystemTestPL\\TaskManager.Tests\\obj\\",
+        "outputPath": "C:\\Users\\july204\\Crud.net\\TaskManager.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\july204\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DataSystemTestPL\\TaskManager\\TaskManager.csproj": {
-                "projectPath": "C:\\DataSystemTestPL\\TaskManager\\TaskManager.csproj"
+              "C:\\Users\\july204\\Crud.net\\TaskManager\\TaskManager.csproj": {
+                "projectPath": "C:\\Users\\july204\\Crud.net\\TaskManager\\TaskManager.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\DataSystemTestPL\\TaskManager\\TaskManager.csproj": {
+    "C:\\Users\\july204\\Crud.net\\TaskManager\\TaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DataSystemTestPL\\TaskManager\\TaskManager.csproj",
+        "projectUniqueName": "C:\\Users\\july204\\Crud.net\\TaskManager\\TaskManager.csproj",
         "projectName": "TaskManager",
-        "projectPath": "C:\\DataSystemTestPL\\TaskManager\\TaskManager.csproj",
+        "projectPath": "C:\\Users\\july204\\Crud.net\\TaskManager\\TaskManager.csproj",
         "packagesPath": "C:\\Users\\july204\\.nuget\\packages\\",
-        "outputPath": "C:\\DataSystemTestPL\\TaskManager\\obj\\",
+        "outputPath": "C:\\Users\\july204\\Crud.net\\TaskManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\july204\\AppData\\Roaming\\NuGet\\NuGet.Config"
